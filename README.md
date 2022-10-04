@@ -2,10 +2,8 @@
 # Sampling-Reconstruction-Signals
 
 - [Temperature-Displayer](#temperature-displayer)
-- [Sampling-Reconstruction-Signals](#sampling-reconstruction-signals)
   - [Features](#features)
-  - [Demo](#demo)
-    - [Display Temperature Demo](#display-temperature-demo)
+  - [Display Temperature Demo](#display-temperature-demo)
 
 ## Features
 - Implementing a complete ADC driver for the STM32 MCU
