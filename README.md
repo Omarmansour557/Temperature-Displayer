@@ -4,7 +4,7 @@
 - [Temperature-Displayer](#temperature-displayer)
 - [Sampling-Reconstruction-Signals](#sampling-reconstruction-signals)
   - [Features](#features)
-  - [Demos](#demos)
+  - [Demo](#demo)
     - [Display Temperature Demo](#display-temperature-demo)
 
 ## Features
@@ -20,7 +20,7 @@
 The sensor temperature can be continuously monitored and displayed on LM016 character LCD
 
 
-## Demos
+## Demo
 
 ### Display Temperature Demo 
 ![volume](./GIF/Demo.gif)
